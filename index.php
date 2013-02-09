@@ -103,7 +103,7 @@ function getbookdata($isbn) {
 ?>
 <form method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>">
    Enter ISBN:<input type="text" name="ISBN"><br>
-   <input type="submit" name="submit" value="Submit Form"><br>
+   <input type="submit" name="submit" value="Get Book Information"><br>
 </form>
 </body>
 </html>
