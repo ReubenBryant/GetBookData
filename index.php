@@ -5,7 +5,7 @@
 <title>Get Book Data</title>
 </head>
 <body>
-<H1>Get Book Data</H1>
+<H1>Get Book Information</H1>
 <?php
 if(isset($_POST['submit'])) 
 { 
